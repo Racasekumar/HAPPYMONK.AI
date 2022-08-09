@@ -1,0 +1,5 @@
+DATASET LIKS-
+HAPPYMONK.AI-https://drive.google.com/drive/folders/1WLdcr3PTAFuRrZgSr34o_6JG0mwT9aIq?usp=sharing
+BINARY_CLASSIFICATION-https://drive.google.com/drive/folders/1NrLmN7vs9Ej_I4IbL-UIv_03CbYE8Uem?usp=sharing
+INDIAN_REGIONAL_NUMBERPLATE-https://drive.google.com/drive/folders/1UUiJo4ajZiqyt0iI1ZvN5Giph6YzqBER?usp=sharing
+YOLO OBJECT DETECTION-https://drive.google.com/drive/folders/1o8gYI3chg-aiEW3rF4-jJMf07Z7bx4Pd?usp=sharing
